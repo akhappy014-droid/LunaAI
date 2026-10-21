@@ -1,1 +1,2 @@
-# LunaAI
+# Luna AI
+Starter project.
